@@ -1,0 +1,16 @@
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\bin\Debug\net5.0\TriangleTestsProject.exe
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\bin\Debug\net5.0\TriangleTestsProject.deps.json
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\bin\Debug\net5.0\TriangleTestsProject.runtimeconfig.json
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\bin\Debug\net5.0\TriangleTestsProject.runtimeconfig.dev.json
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\bin\Debug\net5.0\TriangleTestsProject.dll
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\bin\Debug\net5.0\ref\TriangleTestsProject.dll
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\bin\Debug\net5.0\TriangleTestsProject.pdb
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\obj\Debug\net5.0\TriangleTestsProject.csprojAssemblyReference.cache
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\obj\Debug\net5.0\TriangleTestsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\obj\Debug\net5.0\TriangleTestsProject.AssemblyInfoInputs.cache
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\obj\Debug\net5.0\TriangleTestsProject.AssemblyInfo.cs
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\obj\Debug\net5.0\TriangleTestsProject.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\obj\Debug\net5.0\TriangleTestsProject.dll
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\obj\Debug\net5.0\ref\TriangleTestsProject.dll
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\obj\Debug\net5.0\TriangleTestsProject.pdb
+C:\Users\Roger\Desktop\Files\Studies\CodeWars\TriangleTestsProject\obj\Debug\net5.0\TriangleTestsProject.genruntimeconfig.cache
