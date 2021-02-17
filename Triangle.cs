@@ -3,7 +3,7 @@
 //              The method should return true if a triangle can be built with the 
 //              sides of given length and false in any other case.
 //Initial date: February 16, 2021
-//Last update:  February 16, 2021
+//Last update:  February 17, 2021
 
 using System;
 
@@ -19,8 +19,15 @@ public class Triangle
         B = bValue;
         C = cValue;
     }
+    
     public bool IsTriangle() => ((A + B > C && A + C > B && B + C > A) ? true : false);
     
+    private void CheckIfValueIsLessOrIgualZero(int sideValue, string side)
+    {
+        if(sideValue <= 0)
+            Console.WriteLine($"Invalid value for side {side}! It must be greater than 0");            
+    }
+
     public int A 
     {
         get
@@ -30,10 +37,7 @@ public class Triangle
         set
         {
             a = value;
-            if(a <= 0)
-            {
-                Console.WriteLine("Invalid value for side A! It must be greater than 0");
-            }
+            CheckIfValueIsLessOrIgualZero(a, "A");            
         }
     }
 
@@ -46,10 +50,7 @@ public class Triangle
         set
         {
             b = value;
-            if(b <= 0)
-            {
-                Console.WriteLine("Invalid value for side B! It must be greater than 0");
-            }
+            CheckIfValueIsLessOrIgualZero(b, "B");
         }
     }
 
@@ -62,10 +63,7 @@ public class Triangle
         set
         {
             c = value;
-            if(c <= 0)
-            {
-                Console.WriteLine("Invalid value for side C! It must be greater than 0");
-            }
+            CheckIfValueIsLessOrIgualZero(c, "C");
         }
     }    
 }
